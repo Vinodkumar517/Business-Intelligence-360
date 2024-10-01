@@ -1,6 +1,6 @@
 # Business-Intelligence-360
 
-![Sales insights AtliQ](https://github.com/user-attachments/assets/31cac6b8-055b-4cc7-8e9d-1cc2bb72a987))
+- [Sales insights AtliQ](https://github.com/user-attachments/assets/31cac6b8-055b-4cc7-8e9d-1cc2bb72a987)
 
 ## Table of Contents:
 
