@@ -1,6 +1,8 @@
 # Business-Intelligence-360
 
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODU5MWFmOTItMGY2OS00OWY4LWJkYjQtMDk4Yzg1ZDI1OWVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+- 
   ![Sales insights AtliQ](https://github.com/user-attachments/assets/31cac6b8-055b-4cc7-8e9d-1cc2bb72a987)
 
 ## Table of Contents:
