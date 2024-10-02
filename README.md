@@ -232,3 +232,40 @@ Profit Target:
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
 Shows visualizations from Sales insights :
+
+| FINANCE VIEW |
+| ----------- |
+|![Finance](https://github.com/user-attachments/assets/dbde617f-89a4-4ce3-b8c3-686354c7664d)|
+
+| SALES VIEW |
+| ----------- |
+|![Salesview](https://github.com/user-attachments/assets/c8720abb-a6a6-4c08-9261-eae7207b338a)|
+
+| MARKETING VIEW |
+| ----------- |
+|![Marketing view](https://github.com/user-attachments/assets/c305e07f-fc72-47b6-a97c-d70e2a59d117)|
+
+| SUPPLY CHAIN VIEW |
+| ----------- |
+|![Supply chain view](https://github.com/user-attachments/assets/59024349-f709-4296-bb66-b9dc72827ef5)|
+
+| EXECUTIVE VIEW |
+| ----------- |
+|![Executive view](https://github.com/user-attachments/assets/91211c07-c257-458f-bf94-9d0b8323d3dc)|
+
+## Tools, Software and Libraries :
+
+1.MySQL
+
+2.Microsoft Power BI
+
+3.Power Query Editor
+
+3.DAX Language 
+
+## References :
+https://codebasics.io/panel/webinars/purchases
+
+https://www.sqlbi.com/learn/introducing-dax-video-course/0/
+
+https://dev.mysql.com/doc/
